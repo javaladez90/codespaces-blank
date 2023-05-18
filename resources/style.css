@@ -1,0 +1,60 @@
+.colorbox {
+    border: solid 2px grey;
+    margin: 10px auto;
+    padding: 10px;
+  }
+  
+  div {
+    display: block;
+  }
+  
+  .colorcontainer {
+    width: 100%;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+  }
+  
+  .cool-blue {
+    background-color: #2d5dcc;
+    color: white;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .pink {
+    background-color: #d957d9;
+    color: white;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .mint-green {
+    background-color: #4fe0b0;
+    color: white;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .beige {
+    background-color: #efd9ca;
+    color: white;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .fonts {
+    border: 2px solid grey;
+    margin: 10px auto;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .container {
+    width: 100%;
+  }
+  
+  
