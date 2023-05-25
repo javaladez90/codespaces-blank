@@ -9,7 +9,7 @@
   }
   
   .colorcontainer {
-    width: 100%;
+    width: 80%;
   }
   
   .color-panel {
@@ -54,7 +54,24 @@
   }
   
   .container {
-    width: 100%;
+    margin: 10px auto;
+    padding: 20px;
+    width: 80%;
   }
   
-  
+  .text-panel {
+    display: inline-block;
+    width: 42%;
+  }
+
+  .under {
+    text-decoration: underline;
+  }
+
+  .bold {
+    font-weight: 700;
+  }
+
+  .italics {
+    font-style: italic;
+  }
